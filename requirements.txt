@@ -1,0 +1,11 @@
+WebOb
+WebTest
+beautifulsoup4
+coverage
+mock
+nose
+pep8
+python-termstyle
+rednose
+six
+waitress
