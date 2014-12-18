@@ -1,6 +1,4 @@
 from nose.tools import *
-from myapp.farenheit import *
-from myapp.users import *
 
 
 def setup():
